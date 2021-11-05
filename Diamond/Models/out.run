@@ -1,0 +1,20 @@
+('LENGTH OF TRAINING INDICES ', 723)
+('LENGTH OF TEST INDICES ', 181)
+(12, 10, 716, 1000)
+Generating features for 1/723
+Generating features for 101/723
+Generating features for 201/723
+Generating features for 301/723
+Generating features for 401/723
+Generating features for 501/723
+Generating features for 601/723
+Generating features for 701/723
+('Shape of weights ', (1000, 1))
+('TRAIN - MAE in energy, forces, ', 0.038647476350932325, 0.03886520100111191)
+('TRAIN - RMS in energy, forces, ', 0.06816262643711843, 0.0720744884896663)
+-------TEST RESULTS--------
+Generating features for 1/181
+Generating features for 101/181
+('TEST - MAE in energy, forces, ', 0.059253260456993556, 0.03959104105673692)
+('TEST - RMS in energy, forces, ', 0.12206704518682122, 0.07414911180323919)
+('TIME TAKE: ', 1107.1425869464874)
