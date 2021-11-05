@@ -1,0 +1,15 @@
+The code to fit potential for diamond data is stored under models.
+
+Models has two files
+ 
+  1.) fitRFM.py is the main file to run this code
+  2.) inputs.py stores the appropriate input parameters necessary to run the above code.
+To perform energy/force fitting, simply run python ftRFM.py
+
+Requirements
+
+Following packages are required
+
+1.) numpy
+2.) ase
+3.) quippy with GAP support 
