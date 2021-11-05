@@ -1,5 +1,4 @@
-The code to fit potential for diamond data is stored under models.
-
+The code to fit potential for diamond data is stored under models. Currently, only 4th order polynomial kernels are approximated through this code.
 Models has two files
  
   1.) fitRFM.py is the main file to run this code
